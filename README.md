@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi, I'm Ayush Satav 👋
 
-<!--
-**ayushsatav-tech/ayushsatav-tech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Computer Engineering Student | Python Developer | Aspiring AI & Data Scientist
 
-Here are some ideas to get you started:
+I'm a third-year Computer Engineering student interested in Python, Data Analytics, Artificial Intelligence, and Machine Learning.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Technical Skills
+- Python
+- Pandas and NumPy
+- Matplotlib and Seaborn
+- Scikit-learn
+- Streamlit
+- SQL (Learning)
+- Git and GitHub
+
+### 🚀 My Projects
+- Superstore Sales Analytics — Coming Soon
+- AI-Powered Semantic Webpage Ranking and SEO Optimization — Coming Soon
+- Student Placement Readiness Prediction — Coming Soon
+
+### 🎯 Current Goals
+- Improve my Python and Machine Learning skills.
+- Build practical AI and Data Science projects.
+- Learn new technologies and contribute to GitHub projects.
+
+### 📫 Connect with Me
+- GitHub: https://github.com/ayushsatav-tech
